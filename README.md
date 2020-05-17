@@ -36,4 +36,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 The Mathematics Domain is further Divided into the following sub-domains. 
 
-## Sub Domains & Problems (+Solutions) in the Java Domain
+## Sub Domains & Problems (+Solutions) in the Mathematics Domain
+
+### Fundamentals
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
